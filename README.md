@@ -5,6 +5,10 @@ Remote soil-moisture sensing. Employs language-standard C++ and Arduino Uno to i
 
 The first stage of the overall effort is available: https://github.com/SoothingMist/Embeddable-Software-for-Irrigation-Control.
 
+# Code Files
+
+SerialComm-PC-to-Uno.zip : Illustrates serial communications between Windows PC and Arduino Uno. See the zip's readme files for details.
+
 # License
 
 GNU Affero General Public License v3.0
