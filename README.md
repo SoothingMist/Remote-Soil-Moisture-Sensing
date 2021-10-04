@@ -1,9 +1,9 @@
 
 # Remote-Soil-Moisture-Sensing
 
-Employs language-standard C++ and Arduino Uno to implement LoRa broadcasts for connectivity. No third-part services are involved. Windows PC acts as base station.
+Employs language-standard C++, Arduino Uno, and Uno-compatible LoRa transceivers to implement soil-moisture radio broadcasts.  Uses PC-Uno serial connectivity. No third-part services are involved. Windows PC acts as base station.
 
-The first stage of the overall effort is available: https://github.com/SoothingMist/Embeddable-Software-for-Irrigation-Control.
+The first stage of the overall effort in precision irrigation is available: https://github.com/SoothingMist/Embeddable-Software-for-Irrigation-Control.
 
 # Code Files
 
