@@ -9,7 +9,7 @@ The first stage of the overall effort is available: https://github.com/SoothingM
 
 SerialComm-PC-to-Uno.zip : Illustrates serial communications between Windows PC and Arduino Uno. See the zip's Readme files for details.
 
-Demonstrates LoRa transmission and reception of soil-moisture readings. See the zip's Readme files for details.
+LoRa-Transmit-Receive-SoilMoisture.zip : Demonstrates LoRa transmission and reception of soil-moisture readings. See the zip's Readme files for details.
 
 # License
 
