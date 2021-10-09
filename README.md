@@ -9,7 +9,7 @@ The first stage of the overall effort in precision irrigation is available: http
 
 SerialComm-PC-to-Uno.zip : Illustrates serial communications between Windows PC and Arduino Uno. See the zip's Readme files for details.
 
-LoRa-Transmit-Receive-SoilMoisture.zip : Demonstrates LoRa transmission and reception of soil-moisture readings. See the zip's Readme files for details.
+LoRa-Transmit-Receive-SoilMoisture-Serial.zip : Demonstrates LoRa transmission and reception of soil-moisture readings. Uses PC as server to process received messages. See the zip's Readme file for details.
 
 # License
 
