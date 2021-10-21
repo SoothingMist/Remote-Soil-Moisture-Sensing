@@ -5,11 +5,17 @@ Employs language-standard C++, Arduino Uno, and Uno-compatible LoRa transceivers
 
 The first stage of the overall effort in precision irrigation is available: https://github.com/SoothingMist/Embeddable-Software-for-Irrigation-Control.
 
+
 # Code Files
 
-SerialComm-PC-to-Uno.zip : Illustrates serial communications between Windows PC and Arduino Uno. See the zip's Readme files for details.
+Each zip file has a ReadMe to explain what it does and how to use it, to include figures. If something is not clear, please post a bug report or start a discussion.
 
-LoRa-Transmit-Receive-SoilMoisture-Serial.zip : Demonstrates LoRa transmission and reception of soil-moisture readings. Uses PC as server to process received messages. See the zip's Readme file for details.
+* SerialComm-PC-to-Uno.zip : Illustrates serial communications between Windows PC and Arduino Uno.
+
+* LoRa-Transmit-Receive-SoilMoisture-Serial.zip : Demonstrates LoRa transmission and reception of soil-moisture readings. Uses PC as server to process received messages. 
+
+* QCustomPlotter-plots-serial.zip : Replaces Stage-3 PC console process in LoRa-Transmit-Receive-SoilMoisture-Serial.zip. This is an initial trial with graphical plotting.
+
 
 # License
 
