@@ -3,7 +3,7 @@
 
 Employs language-standard C++, Arduino Uno, and Uno-compatible LoRa transceivers to implement soil-moisture radio broadcasts.  Uses PC-Uno serial connectivity. No third-part services are involved. Windows PC acts as base station.
 
-The first stage of the overall effort in precision irrigation is available: https://github.com/SoothingMist/Embeddable-Software-for-Irrigation-Control.
+This is the second phase of an exploration into precision irrigation. The first phase of the overall effort in precision irrigation is available: https://github.com/SoothingMist/Embeddable-Software-for-Irrigation-Control.
 
 
 # Code Files
