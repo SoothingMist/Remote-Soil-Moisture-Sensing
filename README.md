@@ -12,7 +12,7 @@ Each zip file has a ReadMe to explain what it does and how to use it, to include
 
 * SerialComm-PC-to-Uno.zip : Illustrates serial communications between Windows PC and Arduino Uno.
 
-* LoRa-Transmit-Receive-SoilMoisture-Serial.zip : Demonstrates LoRa transmission and reception of soil-moisture readings. Uses PC as server to process received messages. 
+* LoRa-Transmit-Receive-SoilMoisture-Serial-OneResistiveSensor.zip : Demonstrates LoRa transmission and reception of soil-moisture readings. Uses PC as server to process received messages. One resistive soil-moisture sensing is employed. Application is for indoor use.
 
 * QCustomPlotter-plots-serial.zip : Replaces Stage-3 PC console process in LoRa-Transmit-Receive-SoilMoisture-Serial.zip. This is an initial trial with graphical plotting.
 
