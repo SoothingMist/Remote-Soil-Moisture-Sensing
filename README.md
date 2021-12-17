@@ -16,6 +16,8 @@ Each zip file has a ReadMe to explain what it does and how to use it, to include
 
 * LoRa-Transmit-Receive-SoilMoisture-Serial_TwoCapacitiveSensors.zip : Outdoor battery-operated capacitive soil-moisture sensing units. Indoor Qt GUI basestation.
 
+* LoRa-Transmit-SoilMoisture-Transmit-TwoCapacitiveSensors-OnOff.zip : Updates sense/report module in LoRa-Transmit-Receive-SoilMoisture-Serial_TwoCapacitiveSensors.zip to replace "deep sleep" with on/off using a timer circuit.
+
 
 # License
 
