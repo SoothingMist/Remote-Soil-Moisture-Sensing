@@ -18,6 +18,8 @@ Each zip file has a ReadMe to explain what it does and how to use it, to include
 
 * LoRa-Transmit-SoilMoisture-Transmit-TwoCapacitiveSensors-OnOff.zip : Updates sense/report module in LoRa-Transmit-Receive-SoilMoisture-Serial_TwoCapacitiveSensors.zip to replace "deep sleep" with on/off using a timer circuit.
 
+* Webplotting.zip : The original means of displaying sensor data for observation and control cannot be hosted on the internt. This part of the projct strives for software that can either be hosted locally or on the internet.
+
 
 # License
 
