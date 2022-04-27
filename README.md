@@ -18,9 +18,9 @@ Each zip file has a ReadMe to explain what it does and how to use it, to include
 
 * LoRa-Transmit-SoilMoisture-Transmit-TwoCapacitiveSensors-OnOff.zip : Updates sense/report module in LoRa-Transmit-Receive-SoilMoisture-Serial_TwoCapacitiveSensors.zip to replace "deep sleep" with on/off using a timer circuit.
 
-* RealtimeDataLog.zip : The original means of displaying sensor data for observation and control cannot be hosted on the internt. This part of the projct strives for software that can either be hosted locally or on the internet. This particular code is still evolving. Here it is in its present implementation. Sensor feeds have not yet been added. "Sensor Data" is by random number generation.
-
 * PythonServer-ArduinoClient.zip : A simple python server and arduino client. This is an evolutionary step toward adding sensor data to the realtime data log. Arduino generates the same message format as does LoRa-Transmit-Receive-SoilMoisture-Serial_TwoCapacitiveSensors.zip. Python receives and parses those messeages.
+
+* WebBased.zip : Provides functionality to mirror LoRa-Transmit-SoilMoisture-Transmit-TwoCapacitiveSensors-OnOff.zip but with a web-based basestation. Employs Python/Flask rather than C++/QT.
 
 
 # License
