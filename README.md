@@ -1,27 +1,13 @@
 
 # Remote-Soil-Moisture-Sensing
 
-Employs Qt GUI and language-standard C++, Arduino Uno, and Uno-compatible LoRa transceivers to implement soil-moisture radio broadcasts.  Uses PC-Uno serial connectivity. No third-part services are involved. Windows PC acts as basestation.
+Employs web-based languages, Arduino Uno, and Uno-compatible LoRa transceivers to implement soil-moisture radio broadcasts.  Uses PC-Uno serial connectivity. No third-part services are involved. Windows PC acts as basestation. Basestation can also be hosted on a remote cloud system such as DigitalOcean (https://m.do.co/c/0023596ca262).
 
 This is an evolving exploration into precision irrigation. The first phase of the overall effort in precision irrigation is available: https://github.com/SoothingMist/Embeddable-Software-for-Irrigation-Control.
 
+# Code File
 
-# Code Files
-
-Each zip file has a ReadMe to explain what it does and how to use it, to include figures. If something is not clear, please post a bug report or start a discussion.
-
-* SerialComm-PC-to-Uno.zip : Illustrates serial communications between Windows PC and Arduino Uno.
-
-* LoRa-Transmit-Receive-SoilMoisture-Serial-OneResistiveSensor.zip : Demonstrates LoRa transmission and reception of soil-moisture readings. Uses PC as server to process received messages. One resistive soil-moisture sensing is employed. Application is for indoor use.
-
-* LoRa-Transmit-Receive-SoilMoisture-Serial_TwoCapacitiveSensors.zip : Outdoor battery-operated capacitive soil-moisture sensing units. Indoor Qt GUI basestation.
-
-* LoRa-Transmit-SoilMoisture-Transmit-TwoCapacitiveSensors-OnOff.zip : Updates sense/report module in LoRa-Transmit-Receive-SoilMoisture-Serial_TwoCapacitiveSensors.zip to replace "deep sleep" with on/off using a timer circuit.
-
-* PythonServer-ArduinoClient.zip : A simple python server and arduino client. This is an evolutionary step toward adding sensor data to the realtime data log. Arduino generates the same message format as does LoRa-Transmit-Receive-SoilMoisture-Serial_TwoCapacitiveSensors.zip. Python receives and parses those messeages.
-
-* WebBased.zip : Provides functionality to mirror LoRa-Transmit-SoilMoisture-Transmit-TwoCapacitiveSensors-OnOff.zip but with a web-based basestation. Employs Python/Flask rather than C++/QT.
-
+The associated zip file has a ReadMe to explain the accompanying code modules, the associated hardware, how to put it all together, and how to use the resulting system. If something is not clear, please post a bug report or start a discussion. Would enjoy collaborating with those interested in this technology.
 
 # License
 
