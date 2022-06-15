@@ -7,8 +7,9 @@ This is an evolving exploration into precision irrigation. The first phase of th
 
 # Code Files
 
-LoRa-SoilMoisture-WebBased.zip : The main system. Contains all code modules
-DropoutTesting.zip : The beginnings of experiments with client/server when either halts, and to remove starting-order as a requirement.
+LoRa-SoilMoisture-WebBased.zip : The main system. Contains all code modules.
+
+DropoutTesting.zip : The beginnings of experiments with client/server when either halts, want to restart and reconnect without halting and restarting the whole system. Also want to remove starting-order as a requirement.
 
 Each zip file has a ReadMe to explain the accompanying code modules, the associated hardware, how to put it all together, and how to use the resulting system. If something is not clear, please post a bug report or start a discussion. Would enjoy collaborating with those interested in this technology.
 
