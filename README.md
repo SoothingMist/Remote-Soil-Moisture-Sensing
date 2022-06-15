@@ -5,9 +5,12 @@ Employs web-based languages, Arduino Uno, and Uno-compatible LoRa transceivers t
 
 This is an evolving exploration into precision irrigation. The first phase of the overall effort in precision irrigation is available: https://github.com/SoothingMist/Embeddable-Software-for-Irrigation-Control.
 
-# Code File
+# Code Files
 
-The associated zip file has a ReadMe to explain the accompanying code modules, the associated hardware, how to put it all together, and how to use the resulting system. If something is not clear, please post a bug report or start a discussion. Would enjoy collaborating with those interested in this technology.
+LoRa-SoilMoisture-WebBased.zip : The main system. Contains all code modules
+DropoutTesting.zip : The beginnings of experiments with client/server when either halts, and to remove starting-order as a requirement.
+
+Each zip file has a ReadMe to explain the accompanying code modules, the associated hardware, how to put it all together, and how to use the resulting system. If something is not clear, please post a bug report or start a discussion. Would enjoy collaborating with those interested in this technology.
 
 # License
 
